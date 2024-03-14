@@ -1,2 +1,9 @@
+
+/DataScience_Lecture 
 2024년 1학기 Data_Science 강의자료
 머신러닝 관련자료.
+
+/python_Basic
+파이썬 공부 자료.
+
+
