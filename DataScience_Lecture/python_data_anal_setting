@@ -1,0 +1,6 @@
+pip를 이용해서 데이타분석에 필요한 모듈을 다운로드 및 설치
+
+py -m pip install --upgrade pip
+py -m pip install numpy 
+py -m pip install pandas
+py -m pip install matplotlib
